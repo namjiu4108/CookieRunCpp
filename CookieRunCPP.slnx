@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CookieRunCPP/CookieRunCPP.vcxproj" Id="5611019d-5dbf-4a88-bf7c-8e4ae6b2ab59" />
+</Solution>

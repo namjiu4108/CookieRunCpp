@@ -1,0 +1,17 @@
+# Visual Studio local settings and build output
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+*.vcxproj.user
+*.suo
+*.user
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.exe
+
+# Local game progress
+save_CookieRun.txt
